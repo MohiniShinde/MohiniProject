@@ -1,11 +1,11 @@
-﻿using System;
+using System;
 using Android.App;
 using Android.Content;
 using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
-
+ //This is main activity mmmmmmmmmmmmmmmmmmmm
 namespace Recycler
 {
     [Activity(Label = "Recycler", MainLauncher = true, Icon = "@drawable/icon")]
