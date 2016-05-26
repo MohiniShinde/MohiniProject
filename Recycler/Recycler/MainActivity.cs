@@ -6,6 +6,7 @@ using Android.Views;
 using Android.Widget;
 using Android.OS;
  //This is main activity mmmmmmmmmmmmmmmmmmmm
+ //MainActivity For recyler
 namespace Recycler
 {
     [Activity(Label = "Recycler", MainLauncher = true, Icon = "@drawable/icon")]
